@@ -35,18 +35,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Endimion· An excellent fancy first composed in French by Monsieur Gombauld. And now elegantly interp
+L'ENDIMION
+DE
+GOMBAVLD
+ENGLISHED
+MDCXXXIXLONDO•
+1. To the truely Noble,
+and much honored,
+Sr. ROBERT ANSTRUTHER
+Knight, and one of the
+Gentleman of his Majeſties
+Privy Chamber.
+
+1. To the Reader.
+L: Gaultier incidit. 1624
 #####Body#####
 
-1. The Firſt Booke.
-
 1. ENDYMION.
 
-1. ENDYMION.
+    _ The Firſt Booke.
 
-1. ENDYMION.
+    _ ENDYMION.
 
-1. ENDYMION.
+    _ ENDYMION.
+
+    _ ENDYMION.
+
+    _ ENDYMION.
 
 **Types of content**
 
